@@ -1,5 +1,5 @@
 # CredLancer / CredQuest
-On-chian Credentialing &  Collaboration Platform for Game Studios & Developers 
+On-chain Credentialing &  Collaboration Platform for Game Studios & Developers 
 
 ## Summary: 
 The CredLancer platform facilitates collaboration & skill verification for professionals. Organisations provide team member verification, role badging & project completion incentives. Freelancers showcase their expertise, bid for projects, and meet other professionals. 
